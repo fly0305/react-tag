@@ -7,10 +7,6 @@
     "dist-modules",
     "dist"
   ],
-  "funding": {
-    "type": "individual",
-    "url": "https://www.buymeacoffee.com/aakansha"
-  },
   "sideEffects": false,
   "scripts": {
     "test": "jest --notify --coverage",
@@ -31,7 +27,7 @@
     "autosuggest",
     "editable"
   ],
-  "author": "Prakhar Srivastav",
+  "author": "Asher Holy",
   "license": "MIT",
   "repository": "https://github.com/react-tags/react-tags",
   "peerDependencies": {
